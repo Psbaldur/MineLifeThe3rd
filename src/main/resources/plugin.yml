@@ -1,0 +1,5 @@
+name: MineLife The Third
+version: '${project.version}'
+main: cz.minelife.MineLife
+api-version: 1.19
+authors: [ Psbaldur ]
